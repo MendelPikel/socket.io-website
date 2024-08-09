@@ -51,7 +51,7 @@ const { Server } = require("socket.io");
 
 Reference: https://nodejs.org/api/modules.html
 
-Socket.IO supports both syntax. 
+Socket.IO supports both syntax. רטראטאעחיעחיע
 
 :::tip
 
